@@ -1,0 +1,8 @@
+{
+  "name": "NeuralHub — GCE AI & DS",
+  "description": "A futuristic, 3D, ultra-modern hub for AI and Data Science students of Godavari College of Engineering.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
